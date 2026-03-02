@@ -1,1 +1,5 @@
+name: LegendaryWeapons
+version: 1.0
+main: me.legendary.weapons.LegendaryWeapons
+api-version: 1.21
 
